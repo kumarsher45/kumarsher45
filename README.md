@@ -13,28 +13,22 @@ I'm a results-driven Full Stack Developer with a decade of experience delivering
 
 ## 🔧 Core Skills
 
-### 💻 Frontend
-- Angular • ReactJS • JavaScript • JQuery • HTML5 • CSS3 • Bootstrap
-
-### 🔙 Backend
-- Laravel • Node.js • Express • PHP • WordPress • CodeIgniter • OpenCart
-
-### 🗃️ Databases
-- PostgreSQL • MySQL • MariaDB • MongoDB • Firebase Firestore
-
-### ☁️ Cloud & DevOps
-- AWS (Lambda, RDS, S3, Cognito) • Google Cloud Platform • Linux Server Management
-
+### 💻 Frontend - Angular • ReactJS • JavaScript • JQuery • HTML5 • CSS3 • Bootstrap
+### 🔙 Backend- Laravel • Node.js • Express • PHP • WordPress • CodeIgniter • OpenCart
+### 🗃️ Databases - PostgreSQL • MySQL • MariaDB • MongoDB • Firebase Firestore
+### ☁️ Cloud & DevOps - AWS (Lambda, RDS, S3, Cognito) • Google Cloud Platform • Linux Server
 ### 🔍 Specialized Expertise
-- RESTful API Integration
-- Scalable Search Algorithms
-- Complex Reporting (PDF, Excel, CSV)
-- Clean Architecture (MVC, DRY Principles)
+####  - OpenAI,Deepseek API Integration
+####  - RESTful API Integration
+####  - Scalable Search Algorithms
+####  - Complex Reporting (PDF, Excel, CSV)
+####  - Clean Architecture (MVC, DRY Principles)
 
 ---
 
 ## 📈 What I Offer
 
+- 🤖 AI Powered Applications
 - 🚀 Rapid prototyping & MVP delivery  
 - 🧩 Scalable architecture design  
 - 🔒 Secure API and backend implementation  
