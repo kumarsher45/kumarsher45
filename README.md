@@ -45,7 +45,7 @@ I've been officially recognized as a **Top Rated Plus Freelancer** on Upwork –
 
 Here are some of the professional projects I've contributed to:
 
-### 🔹 [AI Docify](https://sher-singh.com](https://aidocify.com/)
+### 🔹 [AI Docify](https://aidocify.com/)
   - A SaaS platform using OpenAI models for document data extraction from PDFs and images with high accuracy.
 
 ### 🔹 [UNI Diamonds](https://uni.diamonds/)
