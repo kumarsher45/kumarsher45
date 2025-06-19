@@ -41,6 +41,38 @@ I've been officially recognized as a **Top Rated Plus Freelancer** on Upwork –
 
 ---
 
+## 🚀 Featured Projects
+
+Here are some of the professional projects I've contributed to:
+
+### 🔹 [AI Docify](https://sher-singh.com](https://aidocify.com/)
+A SaaS platform using OpenAI models for document data extraction from PDFs and images with high accuracy.
+
+### 🔹 [UNI Diamonds](https://uni.diamonds/)
+A trading platform for diamond professionals with real-time data, inventory tools, and market insights.
+
+### 🔹 [Morebass](https://morebass.com/)
+Interactive music streaming for DJs, radio, and music lovers. Supports live streaming and on-demand playback.
+
+### 🔹 [YoCoach](https://elearning.yo-coach.com/)
+An eLearning platform offering one-on-one online tutoring. Features white-label customization and seamless video calls.
+
+### 🔹 [YoRent](https://mvdemo-fashion.yo-rent.com/)
+A multi-vendor rental marketplace with features like vendor approval, secure payments, tracking, and inventory automation.
+
+### 🔹 [Zenvolt](https://zenvolt.in/)
+E-commerce for power tools and industrial equipment with a focus on solar and battery inverter technology.
+
+### 🔹 [Silver Oaks Township](https://silveroakstownship.com/)
+A premium residential/commercial project website with focus on sustainable living and modern urban design.
+
+### 🔹 [Kalsi Motor Workshop](https://kalsimotorworkshop.com/)
+A platform for showcasing expert truck and JCB repair services with booking and service descriptions.
+
+📌 View more at: [sher-singh.com](https://sher-singh.com)
+
+---
+
 ## 📫 Connect With Me
 
 - 🌐 [sher-singh.com](https://sher-singh.com)  
